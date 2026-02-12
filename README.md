@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="Preview.png" width="900" alt="Preview">
+</p>
+
+<h1 align="center">🎸 Ramones | Web Scraping & Análisis en R</h1>
+
+<hr>
+
 <h2>📌 Resumen</h2>
 
 <p>
